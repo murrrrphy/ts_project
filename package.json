@@ -1,0 +1,10 @@
+{
+  "name": "ts_project",
+  "version": "1.0.0",
+  "description": "ts practice",
+  "main": "index.ts",
+  "repository": "https://github.com/murrrrphy/ts_project.git",
+  "author": "murphy",
+  "license": "MIT",
+  "private": false
+}
